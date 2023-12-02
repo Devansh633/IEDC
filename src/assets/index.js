@@ -1,0 +1,7 @@
+export {default as start1} from "./start1.svg"
+export {default as start2} from "./start2.svg"
+export {default as start3} from "./start3.svg"
+export {default as start4} from "./start4.svg"
+export {default as start5} from "./start5.svg"
+export {default as start6} from "./start6.svg"
+export {default as start7} from "./start7.svg"
