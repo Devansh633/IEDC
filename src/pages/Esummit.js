@@ -12,7 +12,7 @@ const Esummit = () => {
       setImageSource(screenWidth > 768 ? 'images/fffbg3.webp' : 'images/fffbg4.webp');
       setImageSource1(screenWidth > 768 ? 'images/esum1.webp' : 'images/fffbg5.webp');
     };
-
+// 
     handleResize();
 
     // Add resize event listener
